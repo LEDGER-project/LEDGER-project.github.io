@@ -1,0 +1,16 @@
+[project]
+name = "ledger"
+version = "0.1.0"
+requires-python = ">=3.13"
+dependencies = [
+    "ghg-database",
+    "ledgerdata",
+    "mkdocs>=1.6.1",
+    "mkdocs-jupyter>=0.26.3",
+    "mkdocs-material>=9.7.7",
+    "mkdocstrings[python]>=1.0.6",
+]
+
+[tool.uv.sources]
+ledgerdata = { git = "https://github.com/GHG-Tracker-Project/ledgerdata.git", rev = "main" }
+ghg-database = { git = "https://github.com/GHG-Tracker-Project/ledger-database.git", rev = "dev" }
