@@ -1,7 +1,7 @@
 site_name: LEDGER
-site_url: https://ghg-tracker-project.github.io/ledgerdata
-repo_name: GHG-Tracker-Project/ledgerdata
-repo_url: https://github.com/GHG-Tracker-Project/ledgerdata
+site_url: https://LEDGER-project.github.io
+repo_name: LEDGER-project/LEDGER-project.github.io
+repo_url: https://github.com/LEDGER-project/LEDGER-project.github.io
 theme:
   name: material
   palette:
