@@ -29,4 +29,4 @@ The API provides endpoints to retrieve emissions and contextual data.
 
 !!! example
 
-    The following returns all the actors in the database [https://orca-app-5ivtt.ondigitalocean.app/api/v0/actors](https://orca-app-5ivtt.ondigitalocean.app/api/v0/actors).
+    The following returns all the actors in the database [https://orca-app-5ivtt.ondigitalocean.app/api/v0/actor](https://orca-app-5ivtt.ondigitalocean.app/api/v0/actor).
