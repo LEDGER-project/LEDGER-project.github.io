@@ -9,4 +9,4 @@ client = Client()
 ```
 
 --- 
-::: ledgerdata.Client.Client
+::: ledgerdata.client.Client
